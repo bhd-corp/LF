@@ -1,0 +1,146 @@
+body {
+	background: #111;
+	margin: 0;
+	padding: 0;
+}
+.logo {
+	width: 100%;
+	height: 155px;
+	position: fixed;
+	background: linear-gradient(#333, #000);
+}
+h1 {
+	text-align: center;
+	color: #fff;
+	font-family: "raleway";
+	font-size: 80px;
+	top: -23px;
+	left: 35px;
+	position: relative;
+}
+img {
+	width: 120px;
+	position: fixed;
+	top: 18px;
+	left: 224px;
+	/*transform: scale(-1, 1);*/
+}
+.music1 img {
+	width: 200px;
+	position: relative;top: 200px;
+	left: 50px;
+}
+h2 {
+	text-align: center;
+	color: #fff;
+	font-family: "raleway";
+	font-size: 80px;
+	top: 190px;
+	left: 330px;
+	position: fixed;
+}
+.music1 h3 {
+	text-align: center;
+	color: #8C8C8C;
+	font-family: "raleway";
+	font-size: 30px;
+	top: 323px;
+	left: 400px;
+	position: fixed;
+}
+.music1 h4 {
+	text-align: center;
+	color: #8C8C8C;
+	font-family: "raleway";
+	font-size: 40px;
+	top: 165px;
+	left: 370px;
+	position: fixed;
+}
+
+.music2 img {
+	width: 200px;
+	position: relative;top: 250px;
+	left: 50px;
+}
+.music2 h2 {
+	text-align: center;
+	color: #fff;
+	font-family: "raleway";
+	font-size: 80px;
+	top: 440px;
+	left: 330px;
+	position: fixed;
+}
+.music2 h3 {
+	text-align: center;
+	color: #8C8C8C;
+	font-family: "raleway";
+	font-size: 30px;
+	top: 578px;
+	left: 400px;
+	position: fixed;
+}
+.music2 h4 {
+	text-align: center;
+	color: #8C8C8C;
+	font-family: "raleway";
+	font-size: 40px;
+	top: 420px;
+	left: 370px;
+	position: fixed;
+}
+.music1 audio {
+	    position: fixed;
+    top: 280px;
+    left: 100px;
+    width: 600px;
+    opacity: 0;
+}
+.music2 audio {
+	    position: fixed;
+    top: 530px;
+    left: 100px;
+    width: 600px;
+    opacity: 0;
+}
+
+.music3 img {
+	width: 200px;
+	position: relative;top: 300px;
+	left: 50px;
+}
+.music3 h2 {
+	text-align: center;
+	color: #fff;
+	font-family: "raleway";
+	font-size: 80px;
+	top: 690px;
+	left: 390px;
+	position: fixed;
+}
+.music3 h3 {
+	text-align: center;
+	color: #8C8C8C;
+	font-family: "raleway";
+	font-size: 30px;
+	top: 828px;
+	left: 400px;
+	position: fixed;
+}
+.music3 h4 {
+	text-align: center;
+	color: #8C8C8C;
+	font-family: "raleway";
+	font-size: 40px;
+	top: 670px;
+	left: 370px;
+	position: fixed;
+}
+.music3 audio {
+	    position: fixed;
+    top: 780px;
+    left: 100px;
+    width: 600px;
+    opacity: 0;
+}
